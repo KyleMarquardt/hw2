@@ -10,10 +10,31 @@ body {
 }*/
 
 .header {
-  border-radius: 15px;
+  background-color: gray;
+  margin: 20px;
+  border-width: 3px;
+  border-color: blue;
+  padding: 5px;
 }
 
 h3 {
-  border-bottom: solid 4px gray;
+  font-weight: bold;
+  border-bottom: solid 3px black;
+  border radius: 2px;
   padding-bottom: 8px;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+.right {
+    float: right;
+    width: 300px;
+    padding: 10px;
+}
+
+img.test {
+  width:100%;
+  height: auto;
 }
