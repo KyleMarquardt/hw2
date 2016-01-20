@@ -1,17 +1,15 @@
 body {
   font-family: "Helvetica", sans-serif;
-  width: 960px;
-  margin: 10px auto;
+  width: auto;
+  margin: 14px ;
 }
-img {
+/*img {
   width: 150px;
   box-shadow: 8px 8px 4px #AAA;
   float: right;
-}
+}*/
 
 .header {
-  background: #EEE;
-  padding: 14px;
   border-radius: 15px;
 }
 
